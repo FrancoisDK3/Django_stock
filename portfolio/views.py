@@ -1,4 +1,5 @@
 #portfolio/views.py
+#this is a tutorial
 
 from django.shortcuts import render, redirect
 from .models import Stock
